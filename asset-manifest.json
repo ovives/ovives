@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/ovives.git/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/ovives.git/static/js/main.4aa7be5d.chunk.js",
-    "main.js.map": "/ovives.git/static/js/main.4aa7be5d.chunk.js.map",
-    "runtime-main.js": "/ovives.git/static/js/runtime-main.4b9a4dd1.js",
-    "runtime-main.js.map": "/ovives.git/static/js/runtime-main.4b9a4dd1.js.map",
-    "static/js/2.9b87fe1b.chunk.js": "/ovives.git/static/js/2.9b87fe1b.chunk.js",
-    "static/js/2.9b87fe1b.chunk.js.map": "/ovives.git/static/js/2.9b87fe1b.chunk.js.map",
-    "static/js/3.bc51b719.chunk.js": "/ovives.git/static/js/3.bc51b719.chunk.js",
-    "static/js/3.bc51b719.chunk.js.map": "/ovives.git/static/js/3.bc51b719.chunk.js.map",
-    "index.html": "/ovives.git/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/ovives.git/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.9b87fe1b.chunk.js.LICENSE.txt": "/ovives.git/static/js/2.9b87fe1b.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/ovives.git/static/media/logo.6ce24c58.svg"
+    "main.css": "/ovives/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/ovives/static/js/main.4aa7be5d.chunk.js",
+    "main.js.map": "/ovives/static/js/main.4aa7be5d.chunk.js.map",
+    "runtime-main.js": "/ovives/static/js/runtime-main.eb27cac6.js",
+    "runtime-main.js.map": "/ovives/static/js/runtime-main.eb27cac6.js.map",
+    "static/js/2.9b87fe1b.chunk.js": "/ovives/static/js/2.9b87fe1b.chunk.js",
+    "static/js/2.9b87fe1b.chunk.js.map": "/ovives/static/js/2.9b87fe1b.chunk.js.map",
+    "static/js/3.bc51b719.chunk.js": "/ovives/static/js/3.bc51b719.chunk.js",
+    "static/js/3.bc51b719.chunk.js.map": "/ovives/static/js/3.bc51b719.chunk.js.map",
+    "index.html": "/ovives/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/ovives/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.9b87fe1b.chunk.js.LICENSE.txt": "/ovives/static/js/2.9b87fe1b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ovives/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4b9a4dd1.js",
+    "static/js/runtime-main.eb27cac6.js",
     "static/js/2.9b87fe1b.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.4aa7be5d.chunk.js"
